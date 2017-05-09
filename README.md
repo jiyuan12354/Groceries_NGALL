@@ -1,0 +1,2 @@
+# Groceries_NGALL
+Groceries_NG包含platform
